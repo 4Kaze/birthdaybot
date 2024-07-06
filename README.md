@@ -114,7 +114,7 @@ I'm open to contributions. Feel free to fork the project to use it for your own 
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE][license-url] for more information.
 
 ## Contact
 

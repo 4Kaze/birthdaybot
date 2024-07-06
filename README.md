@@ -1,8 +1,8 @@
 # An Unhinged Weeb Birthday Bot
 
-![GitHub License](https://img.shields.io/github/license/4Kaze/birthdaybot)
-![Bot demo badge](https://img.shields.io/badge/%40otanjoubi_bot-deepskyblue?logo=telegram&label=Demo&link=https%3A%2F%2Ft.me%2Fotanjoubi_bot)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/4Kaze/birthdaybot/ci.yml?branch=main)
+[![GitHub License][license badge]][license url]
+[![Bot demo badge][demo badge]](https://t.me/otanjoubi_bot)
+[![GitHub Actions Workflow Status][build badge]](https://github.com/4Kaze/birthdaybot/actions/workflows/ci.yml)
 
 <p align="center">
   <video src="https://github.com/4Kaze/birthdaybot/assets/47448124/bd79f989-f8b3-4f17-a49b-2cac932b2d8e"/>
@@ -114,8 +114,14 @@ I'm open to contributions. Feel free to fork the project to use it for your own 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/4Kaze/birthdaybot/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE][license url] for more information.
 
 ## Contact
 
-![Contact badge](https://img.shields.io/badge/%40yonkaze-darkcyan?logo=telegram&link=https%3A%2F%2Ft.me%2Fyonkaze)
+[![Contact badge]](https://t.me/yonkaze)
+
+[license badge]: https://img.shields.io/github/license/4Kaze/birthdaybot
+[demo badge]: https://img.shields.io/badge/%40otanjoubi_bot-deepskyblue?logo=telegram&label=Demo
+[build badge]: https://img.shields.io/github/actions/workflow/status/4Kaze/birthdaybot/ci.yml?branch=main
+[contact badge]: https://img.shields.io/badge/%40yonkaze-darkcyan?logo=telegram
+[license url]: https://github.com/4Kaze/birthdaybot/blob/main/LICENSE

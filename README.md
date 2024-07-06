@@ -1,7 +1,7 @@
 # An Unhinged Weeb Birthday Bot
 
 ![GitHub License](https://img.shields.io/github/license/4Kaze/birthdaybot)
-![Bot demo badge](https://img.shields.io/badge/%40otanjoubi_bot-deepskyblue?logo=telegram&label=Demo&labelColor=darkblue&link=https%3A%2F%2Ft.me%2Fotanjoubi_bot)
+![Bot demo badge](https://img.shields.io/badge/%40otanjoubi_bot-deepskyblue?logo=telegram&label=Demo&link=https%3A%2F%2Ft.me%2Fotanjoubi_bot)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/4Kaze/birthdaybot/ci.yml?branch=main)
 
 <p align="center">
@@ -118,4 +118,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/4Kaze/birthd
 
 ## Contact
 
-![Contact badge](https://img.shields.io/badge/%40yonkaze-darkcyan?logo=telegram&labelColor=darkslategrey&link=https%3A%2F%2Ft.me%2Fyonkaze)
+![Contact badge](https://img.shields.io/badge/%40yonkaze-darkcyan?logo=telegram&link=https%3A%2F%2Ft.me%2Fyonkaze)

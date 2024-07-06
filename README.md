@@ -1,8 +1,8 @@
 # An Unhinged Weeb Birthday Bot
 
-[![MIT License][license-shield]][license-url]
-[![Telegram Demo][telegram-bot-shield]][telegram-bot-url]
-![workflow-status-shield]
+![GitHub License](https://img.shields.io/github/license/4Kaze/birthdaybot)
+![Bot demo badge](https://img.shields.io/badge/%40otanjoubi_bot-deepskyblue?logo=telegram&label=Demo&labelColor=darkblue&link=https%3A%2F%2Ft.me%2Fotanjoubi_bot)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/4Kaze/birthdaybot/ci.yml?branch=main)
 
 <p align="center">
   <video src="https://github.com/4Kaze/birthdaybot/assets/47448124/bd79f989-f8b3-4f17-a49b-2cac932b2d8e"/>
@@ -114,17 +114,8 @@ I'm open to contributions. Feel free to fork the project to use it for your own 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE][license-url] for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/4Kaze/birthdaybot/blob/main/LICENSE) for more information.
 
 ## Contact
 
-[![Chat on Telegram][telegram-shield]][telegram-profile-url]
-
-
-[license-shield]: https://img.shields.io/github/license/4Kaze/birthdaybot
-[license-url]: https://github.com/4Kaze/birthdaybot/blob/main/LICENSE
-[telegram-bot-url]: https://t.me/otanjoubi_bot
-[telegram-bot-shield]: https://img.shields.io/badge/Demo-@otanjoubi_bot-green?logo=telegram
-[workflow-status-shield]: https://img.shields.io/github/actions/workflow/status/4Kaze/birthdaybot/ci.yml
-[telegram-shield]: https://img.shields.io/badge/-Contact%20me%20on%20Telegram-gray?logo=telegram
-[telegram-profile-url]: https://t.me/yonkaze
+![Contact badge](https://img.shields.io/badge/%40yonkaze-darkcyan?logo=telegram&labelColor=darkslategrey&link=https%3A%2F%2Ft.me%2Fyonkaze)

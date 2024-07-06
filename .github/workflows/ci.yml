@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version-file: 'common/go.mod'
+
+    - name: Build manager
+      working-directory: manager
+      run: |
+        go get .
+        go build -v ./...
+    
+    - name: Test manager
+      working-directory: manager
+      run: go test -v ./...
+      
+    - name: Build notifier
+      working-directory: notifier
+      run: |
+        go get .
+        go build -v ./...
+    
+    - name: Test notifier
+      working-directory: notifier
+      run: go test -v ./...
+

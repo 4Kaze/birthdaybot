@@ -1,0 +1,5 @@
+project_id               = "your-gcp-project-id"
+telegram_bot_token       = "token-from-botfather"
+database_connection_uri  = "postgres://postgres.database.com:5432/postgres"
+manager_container_image  = "location-docker.pkg.dev/project-id/repo-name/manager:1.0"
+notifier_container_image = "location-docker.pkg.dev/project-id/repo-name/notifier:1.0"

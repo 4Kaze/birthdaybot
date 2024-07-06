@@ -1,8 +1,8 @@
 # An Unhinged Weeb Birthday Bot
 
 [![GitHub License][license badge]][license url]
-[![Bot demo badge][demo badge]](https://t.me/otanjoubi_bot)
 [![GitHub Actions Workflow Status][build badge]](https://github.com/4Kaze/birthdaybot/actions/workflows/ci.yml)
+[![Bot demo badge][demo badge]](https://t.me/otanjoubi_bot)
 
 <p align="center">
   <video src="https://github.com/4Kaze/birthdaybot/assets/47448124/bd79f989-f8b3-4f17-a49b-2cac932b2d8e"/>
